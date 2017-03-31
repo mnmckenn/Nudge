@@ -11,8 +11,8 @@ Nick Montgomery
 
 
 
-# --------------------------------------
-# Acknlodgements
+
+# Acknowledgement
 This project is apart of the 2017 Univeristy of Washingtion Informatics capstone event sponsored by the iSchool. More information can be found at: https://ischool.uw.edu/capstone
 
 Special thanks to Frank Martinez and Phil Fawcett for being great mentors and resources throughout the development process.
