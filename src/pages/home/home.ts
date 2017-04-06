@@ -9,15 +9,21 @@ import { NavController } from 'ionic-angular';
 export class HomePage {
 
   constructor(public navCtrl: NavController) {
-
+  	
   }
 
   ionViewWillEnter() {
+
+  	//this.categories = "all";
 
 	var sheet = document.createElement('style')
 	sheet.innerHTML = ".fixed-content {background-color: rgb(154,205,50);}";
 	document.body.appendChild(sheet);
 
+  }
+
+  favorite() {
+  	this.name="star";
   }
 
 }
