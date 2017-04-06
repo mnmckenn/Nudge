@@ -23,7 +23,7 @@ export class HomePage {
   }
 
   favorite() {
-  	this.name="star";
+  	//[name]="visible ? 'arrow-dropdown' : 'arrow-dropup'"
   }
 
 }
