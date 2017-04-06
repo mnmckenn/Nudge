@@ -14,9 +14,9 @@ export class AskPage {
 
   ionViewWillEnter() {
 
-  // 	 var sheet = document.createElement('style')
-	 // sheet.innerHTML = ".fixed-content {background-color: rgb(178, 102, 255);}";
-	 // document.body.appendChild(sheet);
+  	 var sheet = document.createElement('style')
+	 sheet.innerHTML = ".fixed-content {background-color: rgb(188, 102, 255);}";
+	 document.body.appendChild(sheet);
 
   }
 
