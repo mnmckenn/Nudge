@@ -25,6 +25,27 @@ After consider three database options. We decided to implement MongoDB for our b
 More information can be found on [MongoDB] (https://www.mongodb.com/manual)'s website.
 
 Steps for create MongoDB on AWS ([link](https://aws.amazon.com/blogs/aws/mongodb-on-the-aws-cloud-new-quick-start-reference-deployment/).
+
+#####Nudge Objects
+
+The objects that we will be using for our application will be created with JSON and stored on Mongo, all being hosted on Amazon Web Services. Each object will consist of the main parent category (such as finances, medical, work, etc.) that will then be broken down into subcategories, including the tasks involved with that parent category. Below is an example of what the template for what our objects may look like:
+
+	- Parent Category:
+		- Description
+			- Show more
+			- Tasks
+		- Description (toggle)
+			- Show more
+			- Reminder
+			- Suggestions (toggle)
+			- Notes
+			- (HIDDEN)
+				- TAGS
+		- ...
+			- ...
+		- Crowd Suggested tasks
+    -  Create own task
+
 ####Prototyping
 
 - [LucidChart](https://www.lucidchart.com/)
