@@ -14,7 +14,7 @@ export class HomePage {
 
   ionViewWillEnter() {
 
-  	//this.categories = "all";
+  	//this.categories = "'all'";
 
 	var sheet = document.createElement('style')
 	sheet.innerHTML = ".fixed-content {background-color: rgb(154,205,50);}";
