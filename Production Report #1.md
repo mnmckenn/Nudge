@@ -13,7 +13,7 @@ AWS EC2 Instance.
 
 #####Database
 
-After consider three database options. We decided to implement MongoDB for our backend solution. 
+After consider three database options. We decided to implement MongoDB for our backend solution.
 
 ######Benefits include:
 
@@ -47,4 +47,23 @@ Realtime functionality tracking can be found either on [Github](https://github.c
 ###Next Steps
 Next week we will be focusing on:
 
-- 
+-
+
+
+##Nudge Problem space research
+
+There are over 75.4 million Millennials in America. As millennials navigate the transition to adulthood Nudge is there to help them with adulting. Adulting is:
+>1. to behave in an adult manner; engage in activities associated with adulthood
+2. to make someone behave like an adult; turn someone into an adult”. Adulting is also a new and popular phenomena (see graphic).
+
+![alttext](/adulting.png)
+
+Several self-help books, courses, and services have sprung up around the theme of teaching one how to adult. However, there is no simple app to help one with the tasks and help young-adults with their individual needs. This is where nudge comes in to help the user with guides and action plans for  a handful of adulting specific tasks personalized for the user.
+
+Nudge’s objective is simple: help millennials with adulting. Nudge’s focus will be to hone in a few major key challenges millennials face and make them painless. This process will be delightful and painless way.
+
+Based on current research on what young-adults struggle the most with there are three-main themes: financial management, health care management, and general self-help.
+
+#Next week
+
+Over the next one-week sprint I will hone out exactly what tasks in those 3-problem spaces are the best fit for the app nudge. There will be 3-5 specific tasks that the app can do that'll help the user with adulting.
