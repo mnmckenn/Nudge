@@ -1,5 +1,5 @@
 # Nudge
-Nudge, is a personal assistant app that helps make adulting easier by having a pre populated list of reminders curated to your lifestyle. Own a car? Get yearly reminders to change your oil. Want to save money in an adult way? Get reminders to contribute to savings/retirement account. Are you overwhelmed with what it means to be an adult? Don’t worry Nudge has your back and can provide information and service suggestions to get you started.
+Nudge, is an application that guides young adults into the adult world by providing them step by step information on various subjects, reminders to follow up on time sensitive tasks, and suggest products and services to help them along the way. Nervous about renting your first house? Don’t worry, Nudge has your back. Guiding you through the whole process, from lease through getting your security deposit back. 
 
 # Authors
 Matthew McKenna<br />
