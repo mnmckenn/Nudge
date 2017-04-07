@@ -33,8 +33,8 @@ The objects that we will be using for our application will be created with JSON 
 	- Parent Category:
 		- Description
 			- Show more
-			- Tasks
-		- Description (toggle)
+    - Tasks
+      - Description (toggle)
 			- Show more
 			- Reminder
 			- Suggestions (toggle)
