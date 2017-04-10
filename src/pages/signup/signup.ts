@@ -2,24 +2,19 @@ import { Component } from '@angular/core';
 import { MyApp } from '../../app/app.component';
 import { NavController } from 'ionic-angular';
 import { TabsPage } from '../tabs/tabs';
-import { SignupPage } from '../signup/signup';
 
 @Component({
   selector: 'page-home',
-  templateUrl: 'login.html'
+  templateUrl: 'signup.html'
 })
-export class LoginPage {
+export class SignupPage {
 
   constructor(public navCtrl: NavController	) {
       
   }
 
-  login() {
+  finish() {
       this.navCtrl.push(TabsPage);
   }
-
-  signup() {
-  	  this.navCtrl.push(SignupPage);
-  }
-
+  
 }
