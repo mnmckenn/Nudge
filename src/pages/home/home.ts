@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-
 import { NavController } from 'ionic-angular';
+import { CategoryPage } from '../categories/categories';
 
 @Component({
   selector: 'page-home',
@@ -8,8 +8,10 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
+  categories: string = "all";
+
   constructor(public navCtrl: NavController) {
-  	
+
   }
 
   ionViewWillEnter() {
@@ -24,6 +26,10 @@ export class HomePage {
 
   favorite() {
   	//[name]="visible ? 'arrow-dropdown' : 'arrow-dropup'"
+  }
+
+  enterCategory() {
+  	this.navCtrl.push(CategoryPage);
   }
 
 }

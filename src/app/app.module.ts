@@ -8,6 +8,7 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { LoginPage } from '../pages/login/login';
 import { AskPage } from '../pages/ask/ask';
 import { SignupPage } from '../pages/signup/signup';
+import { CategoryPage } from '../pages/categories/categories';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -21,7 +22,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     TabsPage,
     LoginPage,
     AskPage,
-    SignupPage
+    SignupPage,
+    CategoryPage
   ],
   imports: [
     IonicModule.forRoot(MyApp)
@@ -35,7 +37,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     TabsPage,
     LoginPage,
     AskPage,
-    SignupPage
+    SignupPage,
+    CategoryPage
   ],
   providers: [
     StatusBar,
