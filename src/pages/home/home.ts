@@ -8,7 +8,7 @@ import { CategoryPage } from '../categories/categories';
 })
 export class HomePage {
 
-  categories: string = "all";
+  categories: string = "all"; // Sets the default segment to "All" instead of "Favorites"
 
   constructor(public navCtrl: NavController) {
 
@@ -29,7 +29,7 @@ export class HomePage {
   }
 
   enterCategory() {
-  	this.navCtrl.push(CategoryPage);
+  	this.navCtrl.push(CategoryPage); // Upon clicking on a category, navigate to the page for that category
   }
 
 }

@@ -23,7 +23,7 @@ export class SettingsPage {
   }
 
   logout() {
-      document.location.href = 'index.html';
+      document.location.href = 'index.html'; // Reset the app
   }
 
 }

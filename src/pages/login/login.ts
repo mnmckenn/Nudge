@@ -15,7 +15,7 @@ export class LoginPage {
   }
 
   login() {
-      this.navCtrl.push(TabsPage);
+      this.navCtrl.push(TabsPage); // Go to home page
   }
 
   signup() {
