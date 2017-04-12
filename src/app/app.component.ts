@@ -5,7 +5,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { TabsPage } from '../pages/tabs/tabs';
 import { LoginPage } from '../pages/login/login';
-import { AskPage } from '../pages/ask/ask';
+import { AskPage } from '../pages/ask_random/ask';
 
 
 @Component({

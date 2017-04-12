@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 import { HomePage } from '../home/home';
-import { AboutPage } from '../about/about';
+import { AboutPage } from '../about_random/about';
 import { SettingsPage } from '../settings/settings';
 
 @Component({

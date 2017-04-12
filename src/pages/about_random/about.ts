@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { AskPage } from '../ask/ask';
+import { AskPage } from '../ask_random/ask';
 
 
 @Component({
