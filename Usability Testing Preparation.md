@@ -1,6 +1,6 @@
 # Usability Testing Preparation
 
-### Funcational Prototype:
+### Functional Prototype:
 
 ### Roles:
 
