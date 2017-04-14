@@ -13,6 +13,8 @@
 
 ### Pre-testing Form:
 
+Below is a picture of the contents of the form that we will be using for our Usability Tests. All participates must sign the form before the testing process can begin.
+
 <img src="Nudge/img/NudgeConsentFormPicture.png">
 
 ### Testing Scripts:
