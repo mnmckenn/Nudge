@@ -14,10 +14,11 @@ The moderator will be responsible for walking through the testing script with th
 The observers will be responsible for recording observations of the subjects behavior. They should focus on parts of the test that the subject enjoyed, struggled with, or asked questions about. Additionally, they should keep track of generally how long it takes for a user to complete a given task.
 
 ### Pre-testing Form:
-<i>Below is a picture of the contents of the form that we will be using for our Usability Tests. All participates must sign the form before the testing process can begin.</i>
+<i>Below is a picture of the contents of the consent form that we will be using for our Usability Tests. All participates must sign the form before the testing process can begin.</i>
 
 <img src="img/NudgeConsentFormPicture.png"/>
 
+Below are the pre-test questions that will be asked the user before performing the usability test on the Nudge application:
 
 Age:<br>
 
