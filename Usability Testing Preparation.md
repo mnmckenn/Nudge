@@ -43,7 +43,7 @@ On a scale 1-10, how do you feel about the term adulting when used in marketing/
 ### Testing Scripts:
 
 #####  Script 1 (Logging in without creating a profile):
- Welcome to the Nudge application. You will instructed to complete a set of tasks on the application. Please explain your thoughts out loud as your are completing each instructed task.
+ Welcome to the Nudge application. You will instructed to complete a set of tasks on the application. Please explain your thoughts out loud as your are completing each instructed task. <br>
  Your first task is to look at the content inside of the Nudge application without creating a profile. 
 
 #####  Script 2 (Creating a profile):
