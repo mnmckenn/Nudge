@@ -59,9 +59,9 @@ Then, once you have logged out of the profile, log back into the same profile.
 #####  Script 5 (Important Nudge):
 Access your important nudges and tell it that you would like to complete that nudge.
 
-#####  Script 6:
+#####  Script 6 (Changing Profile Settings:
 
-#####  Script 7:
+#####  Script 7 (Deleting your profile):
 
 ### Post Interview Questions:
 
