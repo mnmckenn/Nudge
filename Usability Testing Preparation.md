@@ -47,8 +47,10 @@ On a scale 1-10, how do you feel about the term adulting when used in marketing/
  Your first task is to look at the content inside of the Nudge application without creating a profile. 
 
 #####  Script 2 (Creating a profile):
+Next, please create a new profile and complete the profile creation process.
 
 #####  Script 3 (Access the Flu Shot nudge and get more information):
+Now, please find the flu shot nudge and find information on why you should get your flu shot.
 
 #####  Script 4 (:
 
