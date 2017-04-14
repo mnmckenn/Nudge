@@ -53,6 +53,8 @@ Next, please create a new profile and complete the profile creation process.
 Now, please find the flu shot nudge and find information on why you should get your flu shot.
 
 #####  Script 4 (log out and log back in):
+Please log out of the current profile that you are logged in to.
+Then, once you have logged out of the profile, log back into the same profile. 
 
 #####  Script 5:
 
