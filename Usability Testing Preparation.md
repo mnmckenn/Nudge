@@ -56,7 +56,8 @@ Now, please find the flu shot nudge and find information on why you should get y
 Please log out of the current profile that you are logged in to.
 Then, once you have logged out of the profile, log back into the same profile. 
 
-#####  Script 5:
+#####  Script 5 (Important Nudge):
+Access your important nudges and tell it that you would like to complete that nudge.
 
 #####  Script 6:
 
