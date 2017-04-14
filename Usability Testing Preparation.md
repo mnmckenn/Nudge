@@ -13,7 +13,7 @@
 
 ### Pre-testing Form:
 
-
+<img src="Nudge/img/NudgeConsentFormPicture.png">
 
 ### Testing Scripts:
 
