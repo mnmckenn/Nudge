@@ -42,13 +42,13 @@ On a scale 1-10, how do you feel about the term adulting when used in marketing/
 
 ### Testing Scripts:
 
-#####  Script 1:
+#####  Script 1 (Logging in without creating a profile):
 
-#####  Script 2:
+#####  Script 2 (Creating a profile):
 
-#####  Script 3:
+#####  Script 3 (Access the Flu Shot nudge and get more information):
 
-#####  Script 4:
+#####  Script 4 (:
 
 #####  Script 5:
 
