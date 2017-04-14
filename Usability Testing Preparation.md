@@ -59,9 +59,11 @@ Then, once you have logged out of the profile, log back into the same profile.
 #####  Script 5 (Important Nudge):
 Access your important nudges and tell it that you would like to complete that nudge.
 
-#####  Script 6 (Changing Profile Settings:
+#####  Script 6 (Changing Profile Settings):
+Change your settings so that you no longer want to receive Nudge's related to anything that is dealing with medical information.
 
 #####  Script 7 (Deleting your profile):
+Finally, delete the profile that you have created.
 
 ### Post Interview Questions:
 
