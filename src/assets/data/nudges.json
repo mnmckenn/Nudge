@@ -1,0 +1,16 @@
+{
+    "category": {
+        "Medical": [
+            {"name":"physical", "content":"Have you gotten your yearly physical?"},
+            {"name":"skin", "content":"Have you gotten a skin check recently? (Especially if you regularly tan)"}
+        ],
+        "Financial": [
+            {"name":"phone", "content":"Do you know all the details of your cell phone plan?"},
+            {"name":"creditScore", "content":"Do you know you current credit score?"}
+        ],
+        "Household": [
+            {"name":"firstAid", "content":"Do you currently have a first-aid kit in your home?"},
+            {"name":"flashlight", "content":"Do you have a flashlight in case of a power outage?"}
+        ]
+    }
+}
