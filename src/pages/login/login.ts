@@ -14,6 +14,12 @@ export class LoginPage {
       
   }
 
+  ionWillEnter() {
+  	var sheet = document.createElement('style')
+	sheet.innerHTML = ".fixed-content {background-color: rgb(154,205,50);}";
+	document.body.appendChild(sheet);
+  }
+
   login() {
       this.navCtrl.push(TabsPage); // Go to home page
   }

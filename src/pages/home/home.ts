@@ -28,8 +28,8 @@ export class HomePage {
   	//[name]="visible ? 'arrow-dropdown' : 'arrow-dropup'"
   }
 
-  enterCategory() {
-  	this.navCtrl.push(CategoryPage); // Upon clicking on a category, navigate to the page for that category
+  enterCategory(val) {
+  	this.navCtrl.push(CategoryPage, {category:val}); // Upon clicking on a category, navigate to the page for that category
   }
 
 }

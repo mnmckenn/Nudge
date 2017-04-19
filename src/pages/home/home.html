@@ -20,35 +20,35 @@
 
   <div [ngSwitch]="categories">
     <ion-list *ngSwitchCase="'all'">
-      <ion-item (click)="enterCategory()" id="health">
+      <ion-item (click)="enterCategory('medical')"    >
         <ion-thumbnail item-left>
           <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Health_pictogram.svg">
         </ion-thumbnail>
         <h2 class="item-title">Medical</h2>
         <ion-icon item-right name="star-outline"></ion-icon>
       </ion-item>
-      <ion-item (click)="enterCategory()">
+      <ion-item (click)="enterCategory('financial')">
         <ion-thumbnail item-left>
           <img src="http://www.advent-inc.com/documents/coins.gif">
         </ion-thumbnail>
         <h2 class="item-title">Financial</h2>
         <ion-icon (click)="favorite()" item-right name="star-outline"></ion-icon>
       </ion-item>
-      <ion-item (click)="enterCategory()">
+      <ion-item (click)="enterCategory('household')">
         <ion-thumbnail item-left>
           <img src="http://www.energyhouses.com/wp-content/uploads/2015/09/house-1.png">
         </ion-thumbnail>
         <h2 class="item-title">Household</h2>
         <ion-icon item-right name="star-outline"></ion-icon>
       </ion-item>
-      <ion-item (click)="enterCategory()">
+      <ion-item (click)="enterCategory('automobile')">
         <ion-thumbnail item-left>
           <img src="../../../assets/img/automobile.png">
         </ion-thumbnail>
         <h2 class="item-title">Automobile</h2>
         <ion-icon item-right name="star-outline"></ion-icon>
       </ion-item>
-      <ion-item (click)="enterCategory()">
+      <ion-item (click)="enterCategory('technology')">
         <ion-thumbnail item-left>
           <img src="../../../assets/img/technology.png">
         </ion-thumbnail>
