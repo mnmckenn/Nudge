@@ -30,7 +30,7 @@ export class CategoryPage {
    );
   }
 
-  ionViewWillEnter() {
+  ionViewDidEnter() {
   	console.log(this.nudgeData);
   	var nd = JSON.parse(this.nudgeData._body);
   	console.log(nd);
