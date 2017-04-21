@@ -54,20 +54,7 @@ This seems like an interesting case study I’d love to switch between my workou
 
 ### B14
 
-Home page with form fields, picture to autofill the fields <\br>
-Pulls GPS, don’t need to write color of car, will be found out from picture
-Create a profile (FN, LN, Email) didn’t feel like making a new profile, felt like editing, need a confirmation since not sure if it was saved, no submit button
-Information about it on the bottom, clicked on wrong one originally
-Better to have information circles instead of single ‘Category Descriptions’ on the bottom
-Title categories redundant
-Left aligned of button nots the best
-Camera icon for all icons just so I know that I am pulling up a camera
-Possibly split buttons so information links on the left, functionality/camera button on the right
-Possibly grayish text just to give a shorthand description
-Possible X in top left corner to remind of snapchat to delete a picture
-Switch undo and approve so that undo is on the left, approve on the right
-Very easy to create reports
-Should be able to send anonymously whenever possible, clicking on option should delete your personally identifiable information from the sample report
+Home page with form fields, picture to autofill the fields. Pulls GPS, don’t need to write color of car, will be found out from picture. Create a profile (FN, LN, Email) didn’t feel like making a new profile, felt like editing, need a confirmation since not sure if it was saved, no submit button. Information about it on the bottom, clicked on wrong one originally. Better to have information circles instead of single ‘Category Descriptions’ on the bottom. Title categories redundant. Left aligned of button nots the best. Camera icon for all icons just so I know that I am pulling up a camera. Possibly split buttons so information links on the left, functionality/camera button on the right. Possibly grayish text just to give a shorthand description. Possible X in top left corner to remind of snapchat to delete a picture. Switch undo and approve so that undo is on the left, approve on the right. Very easy to create reports. Should be able to send anonymously whenever possible, clicking on option should delete your personally identifiable information from the sample report
 
 ### B15
 
