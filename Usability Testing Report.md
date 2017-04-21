@@ -54,7 +54,7 @@ This seems like an interesting case study I’d love to switch between my workou
 
 ### B14
 
-Home page with form fields, picture to autofill the fields
+Home page with form fields, picture to autofill the fields <\br>
 Pulls GPS, don’t need to write color of car, will be found out from picture
 Create a profile (FN, LN, Email) didn’t feel like making a new profile, felt like editing, need a confirmation since not sure if it was saved, no submit button
 Information about it on the bottom, clicked on wrong one originally
