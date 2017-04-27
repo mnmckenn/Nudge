@@ -19,7 +19,7 @@ export class HomePage {
   	//this.categories = "'all'";
 
 	var sheet = document.createElement('style')
-	sheet.innerHTML = ".fixed-content {background-color: rgb(154,205,50);}";
+	sheet.innerHTML = ".fixed-content {background-color: rgb(0, 0, 0);}";
 	document.body.appendChild(sheet);
 
   }

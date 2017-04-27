@@ -37,7 +37,7 @@ export class CategoryPage {
   	var list = "<ion-list>";
   	for (var item in nd) {
   		if (nd[item].category == this.category) {
-	  		list += ("<ion-item><h2>" + nd[item].content + "</h2></ion-item>");
+	  		list += ("<div class='outlineBox'><h2 class='outlineText'>" + nd[item].content + "</h2></div>");
 	  	}
   	}
   	list += "</ion-list>";
