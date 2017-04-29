@@ -1,5 +1,39 @@
 # New:
-
+Category: Financial:
+    Insurance
+    Investing
+    Subcategory: Savings
+        Name: Savings Account
+        Question: Did you actually set aside money this month to save?
+        About: 
+        More information:
+        Rank: 1
+      401K
+      
+      Children's College
+    Bills
+      Phone
+      Cable/Internet
+      Credit Card
+    Giving
+    
+    
+    
+  	Bills
+		Rent
+		Review Subscriptions
+		Check Cell plan deals
+		Credit card
+		Investments
+		Stock
+		401k
+		IRA
+		Brokerage accounts
+		HSA
+		Real estate
+		Donations/gifts
+		Credit score
+		Taxes
 
 # Old:
 Nudges:
