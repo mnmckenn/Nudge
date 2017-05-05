@@ -13,3 +13,8 @@ Nudge has your back and can provide information and service suggestions to get y
 ## Table of Functionality
 
 ## Next Steps
+### Finalizing Gamification
+
+### Finishing Building Out Nudges
+
+### Finalizing Design & Implementing Changes
